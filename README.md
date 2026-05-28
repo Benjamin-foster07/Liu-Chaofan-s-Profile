@@ -57,7 +57,7 @@ Currently working on smart appliance software/hardware testing at Xiaomi Smart A
 
 ### Software & Hardware Test Engineer
 
-📅 2026 - Present
+📅 2026.5 - Present
 
 * Responsible for embedded software and hardware integration testing for air conditioner products.
 * Performed function testing, communication testing, and long-term stability testing.
