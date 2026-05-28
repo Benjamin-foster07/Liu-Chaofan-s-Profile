@@ -3,7 +3,7 @@
 🎯 Software Testing Engineer | Automation Testing | Embedded Testing
 🎓 Bachelor of Information and Computing Science, Xiangtan Institute of Technology
 📍 Wuhan / China
-📧 [510749777@qq.com](mailto:510749777@qq.com)
+📧 [2510749777@qq.com](mailto:510749777@qq.com)
 
 ---
 
